@@ -13,7 +13,10 @@ namespace DevCart.ViewComponents
 				new Article(1,"Project","Lorem ipsum dolor sit amet, consectetur adipiscing elit","blog-post-thumb-card-1.jpg"),
 				new Article(2,"Project","Lorem ipsum dolor sit amet, consectetur adipiscing elit","blog-post-thumb-card-2.jpg"),
 				new Article(3,"Project","Lorem ipsum dolor sit amet, consectetur adipiscing elit","blog-post-thumb-card-3.jpg"),
-				new Article(4,"Project","Lorem ipsum dolor sit amet, consectetur adipiscing elit","blog-post-thumb-card-4.jpg") };
+				new Article(4,"Project","Lorem ipsum dolor sit amet, consectetur adipiscing elit","blog-post-thumb-card-4.jpg"), 
+				new Article(5,"Project","Lorem ipsum dolor sit amet, consectetur adipiscing elit","blog-post-thumb-card-5.jpg"), 
+				new Article(6,"Project","Lorem ipsum dolor sit amet, consectetur adipiscing elit","blog-post-thumb-card-6.jpg") 
+			};
 			return View("_LatestArticales",articales);
 		}
 	}
