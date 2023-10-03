@@ -113,3 +113,4 @@ C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\Dev
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\DevCart\DevCart\obj\Debug\netcoreapp3.1\DevCart.csproj.AssemblyReference.cache
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\DevCart\DevCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\DevCart\DevCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Project\_Projects.cshtml.g.cs
+C:\Users\sohei\OneDrive\Desktop\ایمان تقوا وعمل صالح\csharp\DevCart\DevCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\LatestArticales\_LatestArticales.cshtml.g.cs
