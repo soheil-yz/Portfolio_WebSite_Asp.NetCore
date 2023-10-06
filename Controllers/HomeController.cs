@@ -17,16 +17,17 @@ namespace DevCart.Controllers
         {
             return View();
         }
-
-        public IActionResult Contact()
-        {
-            return View();
+		[HttpGet]
+		public IActionResult Contact()
+		{
+			var model = new Contact();
+			return View(model);
         }
         [HttpPost]
 		public JsonResult Contact(Contact form)
 		{
-            var model = new Contact();
-			return Json(model);
+            Console.WriteLine(form.ToString());
+			return Json(Ok());
 		}
 
 		[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
