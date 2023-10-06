@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\css\\theme-1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-1.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\fontawesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\fonts\\IranianSans.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IranianSans.eot"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\fonts\\IranianSans.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IranianSans.svg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\fonts\\IranianSans.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IranianSans.ttf"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\fonts\\IranianSans.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IranianSans.woff"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\fonts\\IranianSans.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IranianSans.woff2"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\Soheil.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Soheil.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\blog\\blog-post-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\blog\\blog-post-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\blog\\blog-post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\blog\\blog-post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\blog\\blog-post-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\blog\\blog-post-thumb-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\blog\\blog-post-thumb-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\blog\\blog-post-thumb-card-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-card-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\blog\\blog-post-thumb-card-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-card-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\blog\\blog-post-thumb-card-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-card-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\blog\\blog-post-thumb-card-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-card-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\blog\\blog-post-thumb-card-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-card-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\blog\\blog-post-thumb-card-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\blog-post-thumb-card-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\clients\\profile-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\profile-1.png"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\clients\\profile-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\profile-2.png"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\clients\\profile-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\profile-3.png"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\clients\\profile-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\profile-4.png"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\clients\\profile-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\profile-5.png"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\clients\\profile-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\profile-6.png"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\profile-lg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\profile-lg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\profile.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\project\\project-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\project\\project-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\project\\project-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\project\\project-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\project\\project-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\project\\project-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\project\\project-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\project\\project-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\project\\project-figure-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-figure-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\project\\project-figure-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\project-figure-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\promo-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\promo-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\images\\resume-profile.png",
+      "PackagePath": "staticwebassets\\assets\\images\\resume-profile.png"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\plugins\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\assets\\plugins\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sohei\\OneDrive\\Desktop\\ایمان تقوا وعمل صالح\\csharp\\DevCart\\DevCart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DevCart.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DevCart.props",
+      "PackagePath": "build\\DevCart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DevCart.props",
+      "PackagePath": "buildMultiTargeting\\DevCart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DevCart.props",
+      "PackagePath": "buildTransitive\\DevCart.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
