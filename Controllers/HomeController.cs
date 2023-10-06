@@ -25,8 +25,8 @@ namespace DevCart.Controllers
         [HttpPost]
 		public JsonResult Contact(Contact form)
 		{
-            Console.WriteLine(form.ToString());
-			return Json(Ok());
+            var model = new Contact();
+			return Json(model);
 		}
 
 		[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
